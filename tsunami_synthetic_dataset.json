@@ -1,0 +1,3002 @@
+[
+  {
+    "timestamp": "0000",
+    "magnitude": 5.07,
+    "depth_km": 75.1,
+    "ocean_depth_m": 2924.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 778.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0001",
+    "magnitude": 5.07,
+    "depth_km": 61.4,
+    "ocean_depth_m": 2420.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.01,
+    "distance_to_coast_km": 162.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0002",
+    "magnitude": 5.12,
+    "depth_km": 78.3,
+    "ocean_depth_m": 2514.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.09,
+    "distance_to_coast_km": 696.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0003",
+    "magnitude": 5.3,
+    "depth_km": 52.6,
+    "ocean_depth_m": 3562.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.27,
+    "distance_to_coast_km": 545.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0004",
+    "magnitude": 5.41,
+    "depth_km": 71.7,
+    "ocean_depth_m": 3250.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.17,
+    "distance_to_coast_km": 725.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0005",
+    "magnitude": 8.6,
+    "depth_km": 11.2,
+    "ocean_depth_m": 3344.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 3.18,
+    "distance_to_coast_km": 80.4,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0006",
+    "magnitude": 5.27,
+    "depth_km": 57.3,
+    "ocean_depth_m": 2295.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.07,
+    "distance_to_coast_km": 591.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0007",
+    "magnitude": 4.91,
+    "depth_km": 60.8,
+    "ocean_depth_m": 4305.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.29,
+    "distance_to_coast_km": 169.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0008",
+    "magnitude": 8.4,
+    "depth_km": 18.6,
+    "ocean_depth_m": 3466.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 7.35,
+    "distance_to_coast_km": 75.5,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0009",
+    "magnitude": 5.09,
+    "depth_km": 74.5,
+    "ocean_depth_m": 3842.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.14,
+    "distance_to_coast_km": 241.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0010",
+    "magnitude": 4.64,
+    "depth_km": 62.7,
+    "ocean_depth_m": 3350.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 581.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0011",
+    "magnitude": 5.75,
+    "depth_km": 47.7,
+    "ocean_depth_m": 3087.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.08,
+    "distance_to_coast_km": 398.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0012",
+    "magnitude": 5.3,
+    "depth_km": 79.3,
+    "ocean_depth_m": 4580.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.28,
+    "distance_to_coast_km": 233.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0013",
+    "magnitude": 4.91,
+    "depth_km": 76.4,
+    "ocean_depth_m": 2023.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.27,
+    "distance_to_coast_km": 766.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0014",
+    "magnitude": 4.68,
+    "depth_km": 47.2,
+    "ocean_depth_m": 2801.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.24,
+    "distance_to_coast_km": 625.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0015",
+    "magnitude": 7.69,
+    "depth_km": 11.1,
+    "ocean_depth_m": 5518.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 2.76,
+    "distance_to_coast_km": 140.6,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0016",
+    "magnitude": 4.88,
+    "depth_km": 73.5,
+    "ocean_depth_m": 3594.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.25,
+    "distance_to_coast_km": 530.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0017",
+    "magnitude": 4.72,
+    "depth_km": 72.2,
+    "ocean_depth_m": 3034.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.19,
+    "distance_to_coast_km": 653.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0018",
+    "magnitude": 4.77,
+    "depth_km": 59.1,
+    "ocean_depth_m": 4457.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.29,
+    "distance_to_coast_km": 719.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0019",
+    "magnitude": 4.98,
+    "depth_km": 60.9,
+    "ocean_depth_m": 3575.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.19,
+    "distance_to_coast_km": 684.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0020",
+    "magnitude": 5.38,
+    "depth_km": 50.0,
+    "ocean_depth_m": 3951.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.17,
+    "distance_to_coast_km": 550.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0021",
+    "magnitude": 5.62,
+    "depth_km": 52.9,
+    "ocean_depth_m": 2662.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.14,
+    "distance_to_coast_km": 400.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0022",
+    "magnitude": 8.0,
+    "depth_km": 12.3,
+    "ocean_depth_m": 5663.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 3.47,
+    "distance_to_coast_km": 86.8,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0023",
+    "magnitude": 5.74,
+    "depth_km": 48.7,
+    "ocean_depth_m": 2580.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.1,
+    "distance_to_coast_km": 337.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0024",
+    "magnitude": 4.97,
+    "depth_km": 58.6,
+    "ocean_depth_m": 3313.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.23,
+    "distance_to_coast_km": 311.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0025",
+    "magnitude": 8.04,
+    "depth_km": 12.0,
+    "ocean_depth_m": 4407.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 4.28,
+    "distance_to_coast_km": 49.7,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0026",
+    "magnitude": 9.08,
+    "depth_km": 20.4,
+    "ocean_depth_m": 3748.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 3.3,
+    "distance_to_coast_km": 20.1,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0027",
+    "magnitude": 8.29,
+    "depth_km": 7.0,
+    "ocean_depth_m": 5929.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 3.55,
+    "distance_to_coast_km": 133.9,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0028",
+    "magnitude": 7.31,
+    "depth_km": 6.8,
+    "ocean_depth_m": 3534.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 2.81,
+    "distance_to_coast_km": 39.7,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0029",
+    "magnitude": 5.6,
+    "depth_km": 51.0,
+    "ocean_depth_m": 2106.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.22,
+    "distance_to_coast_km": 607.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0030",
+    "magnitude": 8.86,
+    "depth_km": 11.6,
+    "ocean_depth_m": 5584.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 5.37,
+    "distance_to_coast_km": 49.9,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0031",
+    "magnitude": 5.02,
+    "depth_km": 63.0,
+    "ocean_depth_m": 2756.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.27,
+    "distance_to_coast_km": 555.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0032",
+    "magnitude": 5.31,
+    "depth_km": 52.6,
+    "ocean_depth_m": 3092.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.14,
+    "distance_to_coast_km": 672.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0033",
+    "magnitude": 5.06,
+    "depth_km": 44.0,
+    "ocean_depth_m": 2315.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 223.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0034",
+    "magnitude": 7.8,
+    "depth_km": 15.8,
+    "ocean_depth_m": 5245.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 5.75,
+    "distance_to_coast_km": 139.0,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0035",
+    "magnitude": 5.37,
+    "depth_km": 57.5,
+    "ocean_depth_m": 2134.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.22,
+    "distance_to_coast_km": 694.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0036",
+    "magnitude": 5.53,
+    "depth_km": 76.6,
+    "ocean_depth_m": 3522.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.24,
+    "distance_to_coast_km": 169.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0037",
+    "magnitude": 4.82,
+    "depth_km": 61.9,
+    "ocean_depth_m": 3616.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 507.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0038",
+    "magnitude": 5.63,
+    "depth_km": 66.8,
+    "ocean_depth_m": 2712.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.17,
+    "distance_to_coast_km": 700.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0039",
+    "magnitude": 5.61,
+    "depth_km": 65.7,
+    "ocean_depth_m": 2088.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.05,
+    "distance_to_coast_km": 478.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0040",
+    "magnitude": 5.02,
+    "depth_km": 48.3,
+    "ocean_depth_m": 3907.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.28,
+    "distance_to_coast_km": 306.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0041",
+    "magnitude": 5.29,
+    "depth_km": 43.5,
+    "ocean_depth_m": 3213.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.12,
+    "distance_to_coast_km": 587.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0042",
+    "magnitude": 4.62,
+    "depth_km": 42.5,
+    "ocean_depth_m": 4363.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.22,
+    "distance_to_coast_km": 421.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0043",
+    "magnitude": 4.96,
+    "depth_km": 58.4,
+    "ocean_depth_m": 4266.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.01,
+    "distance_to_coast_km": 591.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0044",
+    "magnitude": 5.1,
+    "depth_km": 69.2,
+    "ocean_depth_m": 4310.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.12,
+    "distance_to_coast_km": 724.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0045",
+    "magnitude": 5.33,
+    "depth_km": 47.4,
+    "ocean_depth_m": 3944.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.05,
+    "distance_to_coast_km": 228.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0046",
+    "magnitude": 5.03,
+    "depth_km": 47.4,
+    "ocean_depth_m": 3707.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.25,
+    "distance_to_coast_km": 199.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0047",
+    "magnitude": 5.5,
+    "depth_km": 52.8,
+    "ocean_depth_m": 3519.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.03,
+    "distance_to_coast_km": 466.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0048",
+    "magnitude": 5.68,
+    "depth_km": 58.5,
+    "ocean_depth_m": 4513.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.06,
+    "distance_to_coast_km": 654.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0049",
+    "magnitude": 8.35,
+    "depth_km": 15.7,
+    "ocean_depth_m": 3676.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 2.42,
+    "distance_to_coast_km": 116.3,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0050",
+    "magnitude": 4.88,
+    "depth_km": 64.7,
+    "ocean_depth_m": 3975.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.11,
+    "distance_to_coast_km": 634.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0051",
+    "magnitude": 8.28,
+    "depth_km": 15.7,
+    "ocean_depth_m": 5872.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 5.77,
+    "distance_to_coast_km": 81.0,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0052",
+    "magnitude": 4.69,
+    "depth_km": 76.2,
+    "ocean_depth_m": 2064.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.05,
+    "distance_to_coast_km": 727.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0053",
+    "magnitude": 7.29,
+    "depth_km": 24.1,
+    "ocean_depth_m": 5347.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 4.4,
+    "distance_to_coast_km": 56.7,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0054",
+    "magnitude": 4.87,
+    "depth_km": 58.2,
+    "ocean_depth_m": 2172.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.1,
+    "distance_to_coast_km": 285.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0055",
+    "magnitude": 8.29,
+    "depth_km": 19.0,
+    "ocean_depth_m": 5999.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 2.33,
+    "distance_to_coast_km": 109.2,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0056",
+    "magnitude": 5.28,
+    "depth_km": 57.8,
+    "ocean_depth_m": 3128.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.14,
+    "distance_to_coast_km": 283.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0057",
+    "magnitude": 8.37,
+    "depth_km": 15.3,
+    "ocean_depth_m": 3526.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 2.25,
+    "distance_to_coast_km": 118.1,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0058",
+    "magnitude": 8.52,
+    "depth_km": 16.9,
+    "ocean_depth_m": 4511.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 3.67,
+    "distance_to_coast_km": 138.2,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0059",
+    "magnitude": 4.89,
+    "depth_km": 48.1,
+    "ocean_depth_m": 2993.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.2,
+    "distance_to_coast_km": 369.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0060",
+    "magnitude": 7.66,
+    "depth_km": 22.0,
+    "ocean_depth_m": 4485.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 1.73,
+    "distance_to_coast_km": 36.1,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0061",
+    "magnitude": 5.54,
+    "depth_km": 77.8,
+    "ocean_depth_m": 3432.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.13,
+    "distance_to_coast_km": 287.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0062",
+    "magnitude": 5.36,
+    "depth_km": 74.1,
+    "ocean_depth_m": 4085.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.12,
+    "distance_to_coast_km": 408.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0063",
+    "magnitude": 5.51,
+    "depth_km": 66.0,
+    "ocean_depth_m": 3940.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.0,
+    "distance_to_coast_km": 787.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0064",
+    "magnitude": 5.07,
+    "depth_km": 46.3,
+    "ocean_depth_m": 2341.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.1,
+    "distance_to_coast_km": 577.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0065",
+    "magnitude": 4.92,
+    "depth_km": 56.0,
+    "ocean_depth_m": 4530.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.01,
+    "distance_to_coast_km": 651.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0066",
+    "magnitude": 5.76,
+    "depth_km": 56.6,
+    "ocean_depth_m": 3703.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.28,
+    "distance_to_coast_km": 619.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0067",
+    "magnitude": 4.52,
+    "depth_km": 65.7,
+    "ocean_depth_m": 2263.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.2,
+    "distance_to_coast_km": 518.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0068",
+    "magnitude": 5.4,
+    "depth_km": 49.3,
+    "ocean_depth_m": 4863.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.27,
+    "distance_to_coast_km": 221.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0069",
+    "magnitude": 5.66,
+    "depth_km": 76.6,
+    "ocean_depth_m": 4915.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.25,
+    "distance_to_coast_km": 527.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0070",
+    "magnitude": 5.23,
+    "depth_km": 78.5,
+    "ocean_depth_m": 2653.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.26,
+    "distance_to_coast_km": 464.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0071",
+    "magnitude": 8.11,
+    "depth_km": 22.3,
+    "ocean_depth_m": 3601.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 2.58,
+    "distance_to_coast_km": 77.6,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0072",
+    "magnitude": 5.33,
+    "depth_km": 45.8,
+    "ocean_depth_m": 3425.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.28,
+    "distance_to_coast_km": 582.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0073",
+    "magnitude": 8.94,
+    "depth_km": 8.6,
+    "ocean_depth_m": 5984.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 3.23,
+    "distance_to_coast_km": 143.4,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0074",
+    "magnitude": 5.03,
+    "depth_km": 56.3,
+    "ocean_depth_m": 2908.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.1,
+    "distance_to_coast_km": 442.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0075",
+    "magnitude": 7.69,
+    "depth_km": 20.3,
+    "ocean_depth_m": 5620.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 1.76,
+    "distance_to_coast_km": 64.3,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0076",
+    "magnitude": 9.02,
+    "depth_km": 18.3,
+    "ocean_depth_m": 4002.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 7.91,
+    "distance_to_coast_km": 79.4,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0077",
+    "magnitude": 5.12,
+    "depth_km": 75.8,
+    "ocean_depth_m": 2220.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.01,
+    "distance_to_coast_km": 757.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0078",
+    "magnitude": 4.69,
+    "depth_km": 76.8,
+    "ocean_depth_m": 2860.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.05,
+    "distance_to_coast_km": 717.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0079",
+    "magnitude": 4.97,
+    "depth_km": 49.8,
+    "ocean_depth_m": 2736.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.16,
+    "distance_to_coast_km": 326.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0080",
+    "magnitude": 5.74,
+    "depth_km": 56.9,
+    "ocean_depth_m": 4256.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.13,
+    "distance_to_coast_km": 186.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0081",
+    "magnitude": 5.04,
+    "depth_km": 44.4,
+    "ocean_depth_m": 4906.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.21,
+    "distance_to_coast_km": 462.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0082",
+    "magnitude": 8.25,
+    "depth_km": 7.5,
+    "ocean_depth_m": 5601.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 2.35,
+    "distance_to_coast_km": 148.9,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0083",
+    "magnitude": 7.84,
+    "depth_km": 24.4,
+    "ocean_depth_m": 5350.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 6.57,
+    "distance_to_coast_km": 142.1,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0084",
+    "magnitude": 4.84,
+    "depth_km": 42.9,
+    "ocean_depth_m": 4751.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.24,
+    "distance_to_coast_km": 470.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0085",
+    "magnitude": 8.64,
+    "depth_km": 17.5,
+    "ocean_depth_m": 5837.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 6.05,
+    "distance_to_coast_km": 49.1,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0086",
+    "magnitude": 5.66,
+    "depth_km": 61.2,
+    "ocean_depth_m": 4342.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 170.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0087",
+    "magnitude": 5.27,
+    "depth_km": 62.9,
+    "ocean_depth_m": 2895.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.18,
+    "distance_to_coast_km": 793.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0088",
+    "magnitude": 4.92,
+    "depth_km": 40.4,
+    "ocean_depth_m": 4737.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.25,
+    "distance_to_coast_km": 326.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0089",
+    "magnitude": 5.16,
+    "depth_km": 70.0,
+    "ocean_depth_m": 4564.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.13,
+    "distance_to_coast_km": 322.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0090",
+    "magnitude": 5.74,
+    "depth_km": 73.9,
+    "ocean_depth_m": 4137.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.12,
+    "distance_to_coast_km": 793.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0091",
+    "magnitude": 5.73,
+    "depth_km": 43.2,
+    "ocean_depth_m": 3493.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.27,
+    "distance_to_coast_km": 625.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0092",
+    "magnitude": 5.22,
+    "depth_km": 67.8,
+    "ocean_depth_m": 2811.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.0,
+    "distance_to_coast_km": 381.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0093",
+    "magnitude": 5.16,
+    "depth_km": 52.3,
+    "ocean_depth_m": 3408.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.28,
+    "distance_to_coast_km": 227.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0094",
+    "magnitude": 4.59,
+    "depth_km": 46.5,
+    "ocean_depth_m": 4704.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.09,
+    "distance_to_coast_km": 449.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0095",
+    "magnitude": 4.79,
+    "depth_km": 71.5,
+    "ocean_depth_m": 3504.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.24,
+    "distance_to_coast_km": 389.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0096",
+    "magnitude": 5.1,
+    "depth_km": 79.3,
+    "ocean_depth_m": 4543.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.22,
+    "distance_to_coast_km": 302.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0097",
+    "magnitude": 5.73,
+    "depth_km": 68.5,
+    "ocean_depth_m": 4950.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.17,
+    "distance_to_coast_km": 491.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0098",
+    "magnitude": 5.73,
+    "depth_km": 78.3,
+    "ocean_depth_m": 2646.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.2,
+    "distance_to_coast_km": 706.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0099",
+    "magnitude": 4.95,
+    "depth_km": 73.9,
+    "ocean_depth_m": 4150.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.24,
+    "distance_to_coast_km": 709.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0100",
+    "magnitude": 7.55,
+    "depth_km": 23.5,
+    "ocean_depth_m": 3227.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 2.8,
+    "distance_to_coast_km": 127.5,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0101",
+    "magnitude": 8.41,
+    "depth_km": 22.7,
+    "ocean_depth_m": 4975.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 6.77,
+    "distance_to_coast_km": 89.0,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0102",
+    "magnitude": 5.65,
+    "depth_km": 63.3,
+    "ocean_depth_m": 3171.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.19,
+    "distance_to_coast_km": 202.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0103",
+    "magnitude": 5.53,
+    "depth_km": 63.0,
+    "ocean_depth_m": 2008.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.08,
+    "distance_to_coast_km": 198.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0104",
+    "magnitude": 5.3,
+    "depth_km": 71.0,
+    "ocean_depth_m": 4799.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.04,
+    "distance_to_coast_km": 544.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0105",
+    "magnitude": 7.66,
+    "depth_km": 5.0,
+    "ocean_depth_m": 5795.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 7.37,
+    "distance_to_coast_km": 115.1,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0106",
+    "magnitude": 5.75,
+    "depth_km": 44.4,
+    "ocean_depth_m": 4274.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.11,
+    "distance_to_coast_km": 662.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0107",
+    "magnitude": 5.61,
+    "depth_km": 59.7,
+    "ocean_depth_m": 3215.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.16,
+    "distance_to_coast_km": 275.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0108",
+    "magnitude": 5.06,
+    "depth_km": 56.2,
+    "ocean_depth_m": 4886.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.09,
+    "distance_to_coast_km": 351.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0109",
+    "magnitude": 5.18,
+    "depth_km": 59.2,
+    "ocean_depth_m": 2825.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.01,
+    "distance_to_coast_km": 271.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0110",
+    "magnitude": 5.35,
+    "depth_km": 64.2,
+    "ocean_depth_m": 2708.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.26,
+    "distance_to_coast_km": 505.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0111",
+    "magnitude": 5.06,
+    "depth_km": 73.0,
+    "ocean_depth_m": 3048.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.25,
+    "distance_to_coast_km": 181.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0112",
+    "magnitude": 5.29,
+    "depth_km": 43.0,
+    "ocean_depth_m": 3151.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.15,
+    "distance_to_coast_km": 228.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0113",
+    "magnitude": 4.94,
+    "depth_km": 75.5,
+    "ocean_depth_m": 3098.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.1,
+    "distance_to_coast_km": 522.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0114",
+    "magnitude": 8.79,
+    "depth_km": 8.3,
+    "ocean_depth_m": 3112.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 6.57,
+    "distance_to_coast_km": 142.3,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0115",
+    "magnitude": 4.87,
+    "depth_km": 52.2,
+    "ocean_depth_m": 2929.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 757.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0116",
+    "magnitude": 5.36,
+    "depth_km": 76.2,
+    "ocean_depth_m": 3384.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.11,
+    "distance_to_coast_km": 744.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0117",
+    "magnitude": 5.19,
+    "depth_km": 44.1,
+    "ocean_depth_m": 3022.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.08,
+    "distance_to_coast_km": 797.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0118",
+    "magnitude": 4.75,
+    "depth_km": 53.7,
+    "ocean_depth_m": 4308.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.05,
+    "distance_to_coast_km": 175.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0119",
+    "magnitude": 4.51,
+    "depth_km": 47.6,
+    "ocean_depth_m": 4829.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.17,
+    "distance_to_coast_km": 327.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0120",
+    "magnitude": 7.95,
+    "depth_km": 23.3,
+    "ocean_depth_m": 5568.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 4.03,
+    "distance_to_coast_km": 128.6,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0121",
+    "magnitude": 5.07,
+    "depth_km": 52.4,
+    "ocean_depth_m": 4799.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.01,
+    "distance_to_coast_km": 753.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0122",
+    "magnitude": 8.93,
+    "depth_km": 11.2,
+    "ocean_depth_m": 3501.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 7.65,
+    "distance_to_coast_km": 118.0,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0123",
+    "magnitude": 5.45,
+    "depth_km": 57.1,
+    "ocean_depth_m": 3753.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.03,
+    "distance_to_coast_km": 500.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0124",
+    "magnitude": 5.79,
+    "depth_km": 76.4,
+    "ocean_depth_m": 3780.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.01,
+    "distance_to_coast_km": 235.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0125",
+    "magnitude": 8.36,
+    "depth_km": 22.4,
+    "ocean_depth_m": 5176.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 2.41,
+    "distance_to_coast_km": 123.4,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0126",
+    "magnitude": 4.79,
+    "depth_km": 48.9,
+    "ocean_depth_m": 2980.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.1,
+    "distance_to_coast_km": 203.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0127",
+    "magnitude": 4.65,
+    "depth_km": 60.1,
+    "ocean_depth_m": 4759.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.24,
+    "distance_to_coast_km": 729.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0128",
+    "magnitude": 5.48,
+    "depth_km": 69.0,
+    "ocean_depth_m": 4375.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.1,
+    "distance_to_coast_km": 678.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0129",
+    "magnitude": 5.58,
+    "depth_km": 67.3,
+    "ocean_depth_m": 4939.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.14,
+    "distance_to_coast_km": 308.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0130",
+    "magnitude": 8.75,
+    "depth_km": 5.1,
+    "ocean_depth_m": 5526.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 4.58,
+    "distance_to_coast_km": 98.4,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0131",
+    "magnitude": 7.37,
+    "depth_km": 20.4,
+    "ocean_depth_m": 3235.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 2.4,
+    "distance_to_coast_km": 145.3,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0132",
+    "magnitude": 5.19,
+    "depth_km": 48.3,
+    "ocean_depth_m": 2567.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.07,
+    "distance_to_coast_km": 682.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0133",
+    "magnitude": 4.72,
+    "depth_km": 59.8,
+    "ocean_depth_m": 4625.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.16,
+    "distance_to_coast_km": 377.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0134",
+    "magnitude": 4.58,
+    "depth_km": 64.9,
+    "ocean_depth_m": 2424.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 725.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0135",
+    "magnitude": 5.06,
+    "depth_km": 69.3,
+    "ocean_depth_m": 4413.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.19,
+    "distance_to_coast_km": 530.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0136",
+    "magnitude": 5.68,
+    "depth_km": 73.1,
+    "ocean_depth_m": 4465.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.12,
+    "distance_to_coast_km": 416.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0137",
+    "magnitude": 5.13,
+    "depth_km": 54.5,
+    "ocean_depth_m": 3945.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.26,
+    "distance_to_coast_km": 322.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0138",
+    "magnitude": 5.02,
+    "depth_km": 59.5,
+    "ocean_depth_m": 2708.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.1,
+    "distance_to_coast_km": 503.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0139",
+    "magnitude": 5.7,
+    "depth_km": 78.2,
+    "ocean_depth_m": 2625.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.3,
+    "distance_to_coast_km": 583.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0140",
+    "magnitude": 8.14,
+    "depth_km": 7.8,
+    "ocean_depth_m": 4573.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 2.35,
+    "distance_to_coast_km": 120.8,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0141",
+    "magnitude": 5.18,
+    "depth_km": 50.2,
+    "ocean_depth_m": 4166.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.06,
+    "distance_to_coast_km": 547.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0142",
+    "magnitude": 4.77,
+    "depth_km": 62.0,
+    "ocean_depth_m": 4496.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.27,
+    "distance_to_coast_km": 348.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0143",
+    "magnitude": 5.1,
+    "depth_km": 42.5,
+    "ocean_depth_m": 2583.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 674.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0144",
+    "magnitude": 8.41,
+    "depth_km": 7.5,
+    "ocean_depth_m": 5611.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 1.86,
+    "distance_to_coast_km": 42.2,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0145",
+    "magnitude": 5.62,
+    "depth_km": 64.3,
+    "ocean_depth_m": 3792.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.01,
+    "distance_to_coast_km": 154.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0146",
+    "magnitude": 7.2,
+    "depth_km": 19.7,
+    "ocean_depth_m": 4766.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 7.3,
+    "distance_to_coast_km": 109.1,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0147",
+    "magnitude": 5.65,
+    "depth_km": 78.1,
+    "ocean_depth_m": 3241.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.1,
+    "distance_to_coast_km": 483.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0148",
+    "magnitude": 5.5,
+    "depth_km": 41.9,
+    "ocean_depth_m": 4597.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 506.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0149",
+    "magnitude": 5.66,
+    "depth_km": 79.3,
+    "ocean_depth_m": 2825.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.05,
+    "distance_to_coast_km": 453.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0150",
+    "magnitude": 5.04,
+    "depth_km": 72.9,
+    "ocean_depth_m": 4871.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.08,
+    "distance_to_coast_km": 450.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0151",
+    "magnitude": 5.1,
+    "depth_km": 68.5,
+    "ocean_depth_m": 3946.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 319.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0152",
+    "magnitude": 5.41,
+    "depth_km": 72.7,
+    "ocean_depth_m": 3026.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.3,
+    "distance_to_coast_km": 535.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0153",
+    "magnitude": 4.8,
+    "depth_km": 40.5,
+    "ocean_depth_m": 3800.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.29,
+    "distance_to_coast_km": 796.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0154",
+    "magnitude": 5.65,
+    "depth_km": 76.7,
+    "ocean_depth_m": 3559.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.09,
+    "distance_to_coast_km": 678.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0155",
+    "magnitude": 5.04,
+    "depth_km": 57.6,
+    "ocean_depth_m": 4148.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.25,
+    "distance_to_coast_km": 521.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0156",
+    "magnitude": 5.64,
+    "depth_km": 56.8,
+    "ocean_depth_m": 4420.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.19,
+    "distance_to_coast_km": 160.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0157",
+    "magnitude": 5.27,
+    "depth_km": 77.7,
+    "ocean_depth_m": 4119.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.13,
+    "distance_to_coast_km": 259.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0158",
+    "magnitude": 5.33,
+    "depth_km": 62.4,
+    "ocean_depth_m": 2946.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.04,
+    "distance_to_coast_km": 380.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0159",
+    "magnitude": 5.24,
+    "depth_km": 70.0,
+    "ocean_depth_m": 4282.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.05,
+    "distance_to_coast_km": 466.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0160",
+    "magnitude": 5.3,
+    "depth_km": 68.3,
+    "ocean_depth_m": 4141.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.24,
+    "distance_to_coast_km": 769.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0161",
+    "magnitude": 4.77,
+    "depth_km": 60.0,
+    "ocean_depth_m": 4170.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.28,
+    "distance_to_coast_km": 174.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0162",
+    "magnitude": 5.56,
+    "depth_km": 70.4,
+    "ocean_depth_m": 4564.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.1,
+    "distance_to_coast_km": 231.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0163",
+    "magnitude": 4.94,
+    "depth_km": 66.1,
+    "ocean_depth_m": 3454.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.24,
+    "distance_to_coast_km": 447.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0164",
+    "magnitude": 4.69,
+    "depth_km": 65.7,
+    "ocean_depth_m": 4710.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.09,
+    "distance_to_coast_km": 466.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0165",
+    "magnitude": 5.71,
+    "depth_km": 54.3,
+    "ocean_depth_m": 4625.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.01,
+    "distance_to_coast_km": 515.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0166",
+    "magnitude": 5.67,
+    "depth_km": 46.0,
+    "ocean_depth_m": 3274.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.11,
+    "distance_to_coast_km": 483.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0167",
+    "magnitude": 5.14,
+    "depth_km": 45.5,
+    "ocean_depth_m": 3760.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.26,
+    "distance_to_coast_km": 630.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0168",
+    "magnitude": 5.08,
+    "depth_km": 78.4,
+    "ocean_depth_m": 2577.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.27,
+    "distance_to_coast_km": 726.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0169",
+    "magnitude": 4.61,
+    "depth_km": 73.0,
+    "ocean_depth_m": 2453.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.15,
+    "distance_to_coast_km": 213.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0170",
+    "magnitude": 5.69,
+    "depth_km": 71.6,
+    "ocean_depth_m": 2756.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.26,
+    "distance_to_coast_km": 508.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0171",
+    "magnitude": 4.89,
+    "depth_km": 66.1,
+    "ocean_depth_m": 4410.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.16,
+    "distance_to_coast_km": 177.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0172",
+    "magnitude": 5.45,
+    "depth_km": 71.2,
+    "ocean_depth_m": 3298.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.28,
+    "distance_to_coast_km": 332.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0173",
+    "magnitude": 4.52,
+    "depth_km": 43.3,
+    "ocean_depth_m": 2662.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.29,
+    "distance_to_coast_km": 430.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0174",
+    "magnitude": 5.28,
+    "depth_km": 52.0,
+    "ocean_depth_m": 3937.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.28,
+    "distance_to_coast_km": 483.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0175",
+    "magnitude": 4.73,
+    "depth_km": 42.6,
+    "ocean_depth_m": 2434.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.09,
+    "distance_to_coast_km": 230.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0176",
+    "magnitude": 4.57,
+    "depth_km": 48.3,
+    "ocean_depth_m": 3643.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.09,
+    "distance_to_coast_km": 733.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0177",
+    "magnitude": 5.32,
+    "depth_km": 58.8,
+    "ocean_depth_m": 4840.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.11,
+    "distance_to_coast_km": 173.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0178",
+    "magnitude": 8.45,
+    "depth_km": 22.5,
+    "ocean_depth_m": 4530.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 6.86,
+    "distance_to_coast_km": 30.4,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0179",
+    "magnitude": 4.53,
+    "depth_km": 53.3,
+    "ocean_depth_m": 2318.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.08,
+    "distance_to_coast_km": 591.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0180",
+    "magnitude": 4.7,
+    "depth_km": 50.0,
+    "ocean_depth_m": 3872.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.12,
+    "distance_to_coast_km": 709.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0181",
+    "magnitude": 5.13,
+    "depth_km": 45.7,
+    "ocean_depth_m": 4354.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 744.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0182",
+    "magnitude": 5.42,
+    "depth_km": 44.4,
+    "ocean_depth_m": 4263.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.17,
+    "distance_to_coast_km": 511.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0183",
+    "magnitude": 4.96,
+    "depth_km": 72.3,
+    "ocean_depth_m": 2876.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.26,
+    "distance_to_coast_km": 480.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0184",
+    "magnitude": 5.19,
+    "depth_km": 50.4,
+    "ocean_depth_m": 4403.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.2,
+    "distance_to_coast_km": 662.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0185",
+    "magnitude": 4.65,
+    "depth_km": 53.7,
+    "ocean_depth_m": 4773.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.18,
+    "distance_to_coast_km": 632.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0186",
+    "magnitude": 5.38,
+    "depth_km": 61.3,
+    "ocean_depth_m": 4195.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.11,
+    "distance_to_coast_km": 333.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0187",
+    "magnitude": 7.95,
+    "depth_km": 16.4,
+    "ocean_depth_m": 5761.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 6.66,
+    "distance_to_coast_km": 143.5,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0188",
+    "magnitude": 5.76,
+    "depth_km": 61.8,
+    "ocean_depth_m": 4429.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.05,
+    "distance_to_coast_km": 291.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0189",
+    "magnitude": 5.21,
+    "depth_km": 73.2,
+    "ocean_depth_m": 4412.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.06,
+    "distance_to_coast_km": 176.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0190",
+    "magnitude": 5.56,
+    "depth_km": 66.9,
+    "ocean_depth_m": 2356.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.14,
+    "distance_to_coast_km": 795.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0191",
+    "magnitude": 8.07,
+    "depth_km": 11.2,
+    "ocean_depth_m": 3943.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 3.66,
+    "distance_to_coast_km": 107.4,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0192",
+    "magnitude": 4.52,
+    "depth_km": 76.8,
+    "ocean_depth_m": 4444.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.13,
+    "distance_to_coast_km": 455.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0193",
+    "magnitude": 5.32,
+    "depth_km": 49.6,
+    "ocean_depth_m": 2908.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.1,
+    "distance_to_coast_km": 319.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0194",
+    "magnitude": 7.41,
+    "depth_km": 11.7,
+    "ocean_depth_m": 3722.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 1.85,
+    "distance_to_coast_km": 64.0,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0195",
+    "magnitude": 5.04,
+    "depth_km": 61.4,
+    "ocean_depth_m": 4611.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.1,
+    "distance_to_coast_km": 225.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0196",
+    "magnitude": 5.58,
+    "depth_km": 48.5,
+    "ocean_depth_m": 2818.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.01,
+    "distance_to_coast_km": 570.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0197",
+    "magnitude": 5.31,
+    "depth_km": 49.4,
+    "ocean_depth_m": 2023.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.11,
+    "distance_to_coast_km": 491.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0198",
+    "magnitude": 4.61,
+    "depth_km": 41.8,
+    "ocean_depth_m": 2878.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.29,
+    "distance_to_coast_km": 425.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0199",
+    "magnitude": 5.5,
+    "depth_km": 52.9,
+    "ocean_depth_m": 4742.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.03,
+    "distance_to_coast_km": 761.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0200",
+    "magnitude": 5.3,
+    "depth_km": 59.3,
+    "ocean_depth_m": 3117.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.0,
+    "distance_to_coast_km": 234.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0201",
+    "magnitude": 5.78,
+    "depth_km": 71.8,
+    "ocean_depth_m": 3122.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.14,
+    "distance_to_coast_km": 417.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0202",
+    "magnitude": 5.77,
+    "depth_km": 79.8,
+    "ocean_depth_m": 3034.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.28,
+    "distance_to_coast_km": 350.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0203",
+    "magnitude": 5.54,
+    "depth_km": 68.4,
+    "ocean_depth_m": 4018.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.06,
+    "distance_to_coast_km": 481.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0204",
+    "magnitude": 8.58,
+    "depth_km": 13.4,
+    "ocean_depth_m": 3559.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 4.13,
+    "distance_to_coast_km": 124.7,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0205",
+    "magnitude": 5.49,
+    "depth_km": 78.9,
+    "ocean_depth_m": 4078.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.23,
+    "distance_to_coast_km": 550.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0206",
+    "magnitude": 8.86,
+    "depth_km": 24.4,
+    "ocean_depth_m": 3082.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 6.48,
+    "distance_to_coast_km": 57.6,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0207",
+    "magnitude": 4.66,
+    "depth_km": 59.5,
+    "ocean_depth_m": 2267.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.17,
+    "distance_to_coast_km": 391.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0208",
+    "magnitude": 5.48,
+    "depth_km": 78.2,
+    "ocean_depth_m": 4267.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.03,
+    "distance_to_coast_km": 177.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0209",
+    "magnitude": 5.78,
+    "depth_km": 49.3,
+    "ocean_depth_m": 4917.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.2,
+    "distance_to_coast_km": 794.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0210",
+    "magnitude": 5.04,
+    "depth_km": 47.4,
+    "ocean_depth_m": 2466.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 494.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0211",
+    "magnitude": 5.62,
+    "depth_km": 63.1,
+    "ocean_depth_m": 3272.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.1,
+    "distance_to_coast_km": 235.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0212",
+    "magnitude": 8.04,
+    "depth_km": 20.7,
+    "ocean_depth_m": 5074.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 6.48,
+    "distance_to_coast_km": 67.6,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0213",
+    "magnitude": 5.78,
+    "depth_km": 45.3,
+    "ocean_depth_m": 4515.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.14,
+    "distance_to_coast_km": 272.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0214",
+    "magnitude": 8.9,
+    "depth_km": 16.1,
+    "ocean_depth_m": 5125.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 7.06,
+    "distance_to_coast_km": 28.3,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0215",
+    "magnitude": 5.27,
+    "depth_km": 40.6,
+    "ocean_depth_m": 4797.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.04,
+    "distance_to_coast_km": 373.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0216",
+    "magnitude": 4.52,
+    "depth_km": 40.6,
+    "ocean_depth_m": 4362.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.23,
+    "distance_to_coast_km": 170.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0217",
+    "magnitude": 5.17,
+    "depth_km": 77.0,
+    "ocean_depth_m": 3109.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.18,
+    "distance_to_coast_km": 496.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0218",
+    "magnitude": 5.78,
+    "depth_km": 62.2,
+    "ocean_depth_m": 4821.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.27,
+    "distance_to_coast_km": 229.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0219",
+    "magnitude": 8.48,
+    "depth_km": 24.7,
+    "ocean_depth_m": 4604.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 4.93,
+    "distance_to_coast_km": 57.4,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0220",
+    "magnitude": 5.6,
+    "depth_km": 42.1,
+    "ocean_depth_m": 4418.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.0,
+    "distance_to_coast_km": 271.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0221",
+    "magnitude": 4.91,
+    "depth_km": 49.2,
+    "ocean_depth_m": 4386.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.22,
+    "distance_to_coast_km": 774.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0222",
+    "magnitude": 4.7,
+    "depth_km": 74.4,
+    "ocean_depth_m": 3400.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.05,
+    "distance_to_coast_km": 250.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0223",
+    "magnitude": 5.07,
+    "depth_km": 65.1,
+    "ocean_depth_m": 2944.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.01,
+    "distance_to_coast_km": 304.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0224",
+    "magnitude": 7.8,
+    "depth_km": 14.6,
+    "ocean_depth_m": 4922.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 5.9,
+    "distance_to_coast_km": 104.5,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0225",
+    "magnitude": 7.46,
+    "depth_km": 9.5,
+    "ocean_depth_m": 5673.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 2.04,
+    "distance_to_coast_km": 38.4,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0226",
+    "magnitude": 8.9,
+    "depth_km": 21.2,
+    "ocean_depth_m": 3178.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 6.69,
+    "distance_to_coast_km": 108.1,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0227",
+    "magnitude": 5.0,
+    "depth_km": 69.7,
+    "ocean_depth_m": 4071.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.07,
+    "distance_to_coast_km": 561.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0228",
+    "magnitude": 5.63,
+    "depth_km": 59.3,
+    "ocean_depth_m": 3592.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.0,
+    "distance_to_coast_km": 262.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0229",
+    "magnitude": 5.72,
+    "depth_km": 40.9,
+    "ocean_depth_m": 4141.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.17,
+    "distance_to_coast_km": 530.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0230",
+    "magnitude": 5.77,
+    "depth_km": 57.6,
+    "ocean_depth_m": 4278.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.22,
+    "distance_to_coast_km": 705.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0231",
+    "magnitude": 7.21,
+    "depth_km": 6.6,
+    "ocean_depth_m": 4582.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 5.16,
+    "distance_to_coast_km": 93.2,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0232",
+    "magnitude": 5.73,
+    "depth_km": 40.3,
+    "ocean_depth_m": 4291.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.08,
+    "distance_to_coast_km": 730.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0233",
+    "magnitude": 7.79,
+    "depth_km": 23.7,
+    "ocean_depth_m": 4784.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 2.44,
+    "distance_to_coast_km": 26.0,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0234",
+    "magnitude": 4.58,
+    "depth_km": 43.0,
+    "ocean_depth_m": 2704.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.07,
+    "distance_to_coast_km": 294.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0235",
+    "magnitude": 5.51,
+    "depth_km": 71.0,
+    "ocean_depth_m": 4916.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.22,
+    "distance_to_coast_km": 562.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0236",
+    "magnitude": 4.9,
+    "depth_km": 68.1,
+    "ocean_depth_m": 4049.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.14,
+    "distance_to_coast_km": 617.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0237",
+    "magnitude": 5.36,
+    "depth_km": 65.5,
+    "ocean_depth_m": 3497.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.03,
+    "distance_to_coast_km": 299.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0238",
+    "magnitude": 5.15,
+    "depth_km": 44.5,
+    "ocean_depth_m": 3216.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.18,
+    "distance_to_coast_km": 267.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0239",
+    "magnitude": 5.24,
+    "depth_km": 59.9,
+    "ocean_depth_m": 2617.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.16,
+    "distance_to_coast_km": 715.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0240",
+    "magnitude": 4.99,
+    "depth_km": 64.8,
+    "ocean_depth_m": 2077.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.15,
+    "distance_to_coast_km": 185.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0241",
+    "magnitude": 5.39,
+    "depth_km": 62.3,
+    "ocean_depth_m": 4862.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 431.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0242",
+    "magnitude": 5.12,
+    "depth_km": 75.0,
+    "ocean_depth_m": 2690.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.23,
+    "distance_to_coast_km": 716.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0243",
+    "magnitude": 5.01,
+    "depth_km": 72.5,
+    "ocean_depth_m": 4213.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.22,
+    "distance_to_coast_km": 357.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0244",
+    "magnitude": 4.75,
+    "depth_km": 56.2,
+    "ocean_depth_m": 4894.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.12,
+    "distance_to_coast_km": 558.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0245",
+    "magnitude": 7.86,
+    "depth_km": 24.4,
+    "ocean_depth_m": 3480.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 6.08,
+    "distance_to_coast_km": 69.6,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0246",
+    "magnitude": 5.73,
+    "depth_km": 41.6,
+    "ocean_depth_m": 2172.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.0,
+    "distance_to_coast_km": 248.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0247",
+    "magnitude": 4.62,
+    "depth_km": 54.2,
+    "ocean_depth_m": 2090.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.06,
+    "distance_to_coast_km": 573.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0248",
+    "magnitude": 4.56,
+    "depth_km": 53.4,
+    "ocean_depth_m": 2809.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.11,
+    "distance_to_coast_km": 170.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0249",
+    "magnitude": 7.87,
+    "depth_km": 16.0,
+    "ocean_depth_m": 3019.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 2.15,
+    "distance_to_coast_km": 96.3,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0250",
+    "magnitude": 8.7,
+    "depth_km": 18.8,
+    "ocean_depth_m": 5095.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 3.95,
+    "distance_to_coast_km": 140.6,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0251",
+    "magnitude": 5.52,
+    "depth_km": 67.4,
+    "ocean_depth_m": 3672.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.21,
+    "distance_to_coast_km": 400.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0252",
+    "magnitude": 5.56,
+    "depth_km": 57.8,
+    "ocean_depth_m": 3322.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.26,
+    "distance_to_coast_km": 715.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0253",
+    "magnitude": 8.34,
+    "depth_km": 5.2,
+    "ocean_depth_m": 4874.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 6.13,
+    "distance_to_coast_km": 93.9,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0254",
+    "magnitude": 4.87,
+    "depth_km": 74.7,
+    "ocean_depth_m": 4165.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.24,
+    "distance_to_coast_km": 360.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0255",
+    "magnitude": 5.52,
+    "depth_km": 79.9,
+    "ocean_depth_m": 4520.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.27,
+    "distance_to_coast_km": 659.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0256",
+    "magnitude": 7.66,
+    "depth_km": 21.4,
+    "ocean_depth_m": 3933.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 3.5,
+    "distance_to_coast_km": 116.7,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0257",
+    "magnitude": 4.58,
+    "depth_km": 70.3,
+    "ocean_depth_m": 3514.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.07,
+    "distance_to_coast_km": 438.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0258",
+    "magnitude": 4.51,
+    "depth_km": 57.9,
+    "ocean_depth_m": 4582.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.13,
+    "distance_to_coast_km": 316.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0259",
+    "magnitude": 4.8,
+    "depth_km": 57.6,
+    "ocean_depth_m": 2293.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.06,
+    "distance_to_coast_km": 639.3,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0260",
+    "magnitude": 4.98,
+    "depth_km": 61.2,
+    "ocean_depth_m": 3172.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.25,
+    "distance_to_coast_km": 229.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0261",
+    "magnitude": 5.48,
+    "depth_km": 56.7,
+    "ocean_depth_m": 4411.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.14,
+    "distance_to_coast_km": 635.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0262",
+    "magnitude": 5.44,
+    "depth_km": 71.9,
+    "ocean_depth_m": 4627.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.17,
+    "distance_to_coast_km": 508.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0263",
+    "magnitude": 7.96,
+    "depth_km": 11.1,
+    "ocean_depth_m": 3531.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 6.42,
+    "distance_to_coast_km": 48.5,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0264",
+    "magnitude": 4.61,
+    "depth_km": 50.9,
+    "ocean_depth_m": 4541.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.19,
+    "distance_to_coast_km": 697.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0265",
+    "magnitude": 4.65,
+    "depth_km": 73.6,
+    "ocean_depth_m": 4752.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.15,
+    "distance_to_coast_km": 539.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0266",
+    "magnitude": 4.68,
+    "depth_km": 61.8,
+    "ocean_depth_m": 4063.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.09,
+    "distance_to_coast_km": 787.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0267",
+    "magnitude": 5.4,
+    "depth_km": 67.9,
+    "ocean_depth_m": 2665.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.29,
+    "distance_to_coast_km": 283.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0268",
+    "magnitude": 5.58,
+    "depth_km": 54.2,
+    "ocean_depth_m": 2027.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.2,
+    "distance_to_coast_km": 621.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0269",
+    "magnitude": 5.22,
+    "depth_km": 42.2,
+    "ocean_depth_m": 3597.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.2,
+    "distance_to_coast_km": 784.9,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0270",
+    "magnitude": 4.7,
+    "depth_km": 59.7,
+    "ocean_depth_m": 3753.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.06,
+    "distance_to_coast_km": 368.2,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0271",
+    "magnitude": 4.57,
+    "depth_km": 74.1,
+    "ocean_depth_m": 4189.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.17,
+    "distance_to_coast_km": 281.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0272",
+    "magnitude": 8.98,
+    "depth_km": 10.9,
+    "ocean_depth_m": 3197.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 1.9,
+    "distance_to_coast_km": 128.1,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0273",
+    "magnitude": 8.63,
+    "depth_km": 10.9,
+    "ocean_depth_m": 5837.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 7.53,
+    "distance_to_coast_km": 20.4,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0274",
+    "magnitude": 4.88,
+    "depth_km": 69.1,
+    "ocean_depth_m": 3289.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.13,
+    "distance_to_coast_km": 652.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0275",
+    "magnitude": 5.38,
+    "depth_km": 65.7,
+    "ocean_depth_m": 2808.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.19,
+    "distance_to_coast_km": 229.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0276",
+    "magnitude": 8.88,
+    "depth_km": 21.0,
+    "ocean_depth_m": 3122.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 5.11,
+    "distance_to_coast_km": 141.0,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0277",
+    "magnitude": 4.99,
+    "depth_km": 70.7,
+    "ocean_depth_m": 2159.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.23,
+    "distance_to_coast_km": 382.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0278",
+    "magnitude": 5.39,
+    "depth_km": 57.5,
+    "ocean_depth_m": 2806.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.13,
+    "distance_to_coast_km": 530.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0279",
+    "magnitude": 5.28,
+    "depth_km": 71.4,
+    "ocean_depth_m": 3623.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.26,
+    "distance_to_coast_km": 175.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0280",
+    "magnitude": 4.68,
+    "depth_km": 50.8,
+    "ocean_depth_m": 3503.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.12,
+    "distance_to_coast_km": 622.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0281",
+    "magnitude": 4.55,
+    "depth_km": 76.3,
+    "ocean_depth_m": 4949.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.17,
+    "distance_to_coast_km": 153.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0282",
+    "magnitude": 4.84,
+    "depth_km": 49.4,
+    "ocean_depth_m": 3615.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.05,
+    "distance_to_coast_km": 223.6,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0283",
+    "magnitude": 5.51,
+    "depth_km": 55.8,
+    "ocean_depth_m": 3072.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.16,
+    "distance_to_coast_km": 263.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0284",
+    "magnitude": 4.74,
+    "depth_km": 57.1,
+    "ocean_depth_m": 2851.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.21,
+    "distance_to_coast_km": 473.5,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0285",
+    "magnitude": 4.65,
+    "depth_km": 54.4,
+    "ocean_depth_m": 2339.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.17,
+    "distance_to_coast_km": 739.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0286",
+    "magnitude": 5.29,
+    "depth_km": 51.9,
+    "ocean_depth_m": 4025.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.02,
+    "distance_to_coast_km": 781.8,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0287",
+    "magnitude": 8.06,
+    "depth_km": 6.0,
+    "ocean_depth_m": 4657.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 6.84,
+    "distance_to_coast_km": 96.9,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0288",
+    "magnitude": 4.99,
+    "depth_km": 75.2,
+    "ocean_depth_m": 2762.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.29,
+    "distance_to_coast_km": 607.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0289",
+    "magnitude": 5.05,
+    "depth_km": 46.5,
+    "ocean_depth_m": 4343.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.28,
+    "distance_to_coast_km": 703.4,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0290",
+    "magnitude": 5.23,
+    "depth_km": 64.9,
+    "ocean_depth_m": 4696.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.29,
+    "distance_to_coast_km": 363.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0291",
+    "magnitude": 7.39,
+    "depth_km": 16.1,
+    "ocean_depth_m": 5670.0,
+    "fault_type": "thrust",
+    "vertical_displacement_m": 7.15,
+    "distance_to_coast_km": 29.3,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0292",
+    "magnitude": 5.7,
+    "depth_km": 43.8,
+    "ocean_depth_m": 4552.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.09,
+    "distance_to_coast_km": 725.7,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0293",
+    "magnitude": 7.2,
+    "depth_km": 7.5,
+    "ocean_depth_m": 4393.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 3.62,
+    "distance_to_coast_km": 117.0,
+    "label": "tsunami_risk"
+  },
+  {
+    "timestamp": "0294",
+    "magnitude": 4.91,
+    "depth_km": 64.7,
+    "ocean_depth_m": 3076.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.04,
+    "distance_to_coast_km": 787.0,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0295",
+    "magnitude": 5.56,
+    "depth_km": 78.5,
+    "ocean_depth_m": 4515.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.11,
+    "distance_to_coast_km": 426.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0296",
+    "magnitude": 4.62,
+    "depth_km": 77.1,
+    "ocean_depth_m": 3714.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.11,
+    "distance_to_coast_km": 539.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0297",
+    "magnitude": 5.56,
+    "depth_km": 79.5,
+    "ocean_depth_m": 3300.0,
+    "fault_type": "strike-slip",
+    "vertical_displacement_m": 0.18,
+    "distance_to_coast_km": 197.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0298",
+    "magnitude": 5.25,
+    "depth_km": 43.8,
+    "ocean_depth_m": 4975.0,
+    "fault_type": "normal",
+    "vertical_displacement_m": 0.0,
+    "distance_to_coast_km": 797.1,
+    "label": "no_tsunami"
+  },
+  {
+    "timestamp": "0299",
+    "magnitude": 8.94,
+    "depth_km": 23.9,
+    "ocean_depth_m": 4980.0,
+    "fault_type": "reverse",
+    "vertical_displacement_m": 2.32,
+    "distance_to_coast_km": 43.3,
+    "label": "tsunami_risk"
+  }
+]
