@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>India Disaster Monitoring Center</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+
+<style>
+body{margin:0;background:#0a0e19;color:white;font-family:Segoe UI;}
+.container{display:flex;height:100vh;}
+#map{flex:2;}
+.alert-panel{flex:1;background:#141a2a;padding:15px;overflow-y:auto;}
+.alert-card{background:#1e2638;border-left:5px solid orange;padding:10px;margin-bottom:10px;border-radius:6px;}
+.alert-card.tsunami{border-left-color:red;}
+.alert-card.landslide{border-left-color:#22c55e;}
+.severity-high{color:#ff4d4d;font-weight:bold;}
+.severity-medium{color:#facc15;}
+.pulse{animation:pulse 1.5s infinite;}
+@keyframes pulse{
+0%{transform:scale(.7);opacity:.8;}
+70%{transform:scale(1.5);opacity:0;}
+100%{transform:scale(.7);opacity:0;}
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+  <div id="map"></div>
+  <div class="alert-panel">
+    <h2>🚨 Disaster Log</h2>
+    <div id="alerts"></div>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+const map=L.map('map',{minZoom:5}).setView([22.97,78.65],5);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+const markersLayer=L.layerGroup().addTo(map);
+const seen=new Set();
+
+function createMarker(lat,lon,type,severity){
+let html;
+if(type==="tsunami"){
+html=`<div class="pulse" style="border-left:12px solid transparent;border-right:12px solid transparent;border-bottom:20px solid red;"></div>`;
+}else if(type==="landslide"){
+html=`<div class="pulse" style="width:16px;height:16px;background:#22c55e;border-radius:4px;"></div>`;
+}else{
+html=`<div class="pulse" style="width:14px;height:14px;background:orange;border-radius:50%;"></div>`;
+}
+return L.marker([lat,lon],{icon:L.divIcon({className:'',html})});
+}
+
+async function fetchEvents(){
+const res=await fetch("/events");
+const events=await res.json();
+const alertBox=document.getElementById("alerts");
+
+events.forEach(e=>{
+const key=e.id;
+if(seen.has(key)) return;
+seen.add(key);
+
+// ✅ LOGS STAY
+const card=document.createElement("div");
+card.className="alert-card "+e.type;
+card.innerHTML=`
+<b>${e.type.toUpperCase()}</b> (${e.severity})<br>
+${e.message}<br>
+📍 ${e.location}<br>
+`;
+alertBox.prepend(card);
+
+// ✅ MARKERS AUTO-REMOVE
+if(e.lat&&e.lon){
+const m=createMarker(e.lat,e.lon,e.type,e.severity)
+.addTo(markersLayer)
+.bindPopup(e.message);
+
+setTimeout(()=>markersLayer.removeLayer(m),5000);
+}
+});
+}
+
+setInterval(fetchEvents,2000);
+</script>
+
+</body>
+</html>
